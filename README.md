@@ -1,2 +1,5 @@
 # Sample-res
-demo repo
+demo repo.This is my first demo repo
+
+#first file
+
